@@ -1,1 +1,1 @@
-printf partner poject
+printf partner poject get started
