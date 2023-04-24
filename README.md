@@ -1,1 +1,1 @@
-printf partner poject get started
+readme file
