@@ -17,8 +17,8 @@ int (*get_func(char s))(va_list)
 	};
 	while (arr[m].valid)
 	{
-		if (x == arr[m].valid[0])
-			return (arr[m].f);
+		if (s == arr[m].valid[0])
+			return (arr[m].fa);
 		m++;
 	}
 	return (NULL);
